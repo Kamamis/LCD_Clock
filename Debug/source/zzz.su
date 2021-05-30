@@ -1,0 +1,6 @@
+fsl_gpio.h:172:24:GPIO_PinRead	24	static
+zzz.c:68:6:ENC_A_Callback	16	static
+zzz.c:99:6:ENC_S_Callback	16	static
+zzz.c:106:6:Analog_Clock	80	static
+zzz.c:139:6:Digital_Clock	32	static
+zzz.c:160:5:main	16	static

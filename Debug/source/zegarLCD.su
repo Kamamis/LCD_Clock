@@ -1,0 +1,6 @@
+fsl_gpio.h:172:24:GPIO_PinRead	24	static
+zegarLCD.c:66:6:ENC_A_Callback	16	static
+zegarLCD.c:97:6:ENC_S_Callback	16	static
+zegarLCD.c:104:6:Analog_Clock	80	static
+zegarLCD.c:138:6:Digital_Clock	24	static
+zegarLCD.c:169:5:main	16	static

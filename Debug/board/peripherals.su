@@ -1,0 +1,8 @@
+core_cm33.h:2324:22:__NVIC_SetPriority	16	static
+fsl_rtc.h:454:20:RTC_StartTimer	16	static
+fsl_rtc.h:467:20:RTC_StopTimer	16	static
+peripherals.c:96:13:FLEXCOMM3_init	8	static
+peripherals.c:151:13:RTC_init	8	static
+peripherals.c:203:13:PINT_init	8	static
+peripherals.c:223:6:BOARD_InitPeripherals	8	static
+peripherals.c:234:6:BOARD_InitBootPeripherals	8	static
